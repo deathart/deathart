@@ -4,10 +4,10 @@ I am a full-stack developer but I prefer the front end, my favorite language and
 
 #### ⚡ My Dev Statistics
 <!-- GitHub Stats -->  
-<p>  
+<p align="center">  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deathart&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&theme=vue-dark" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deathart&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&hide=lua&langs_count=8&theme=vue-dark"/> 
-<a href="https://app.daily.dev/deathart"><img src="https://api.daily.dev/devcards/d8c9c7a4f88f4fd6b31f697327ca52cb.png?r=qoq" width="400" alt="Deathart's Dev Card"/></a>
+<a href="https://app.daily.dev/deathart"><img src="https://api.daily.dev/devcards/d8c9c7a4f88f4fd6b31f697327ca52cb.png?r=qoq" width="180" alt="Deathart's Dev Card"/></a>
 </p>  
 
 
