@@ -37,4 +37,4 @@ I am a full-stack developer but I prefer the front end, my favorite language and
 <a href="http://www.lua.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/></a>
 </p>
 
-![Metrics](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/deathart/deathart/github-metrics/github-metrics.svg)
