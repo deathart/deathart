@@ -9,7 +9,7 @@ I am a full-stack developer but I prefer the front end, my favorite language and
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/deathart/deathart/devcard/devcard.svg"
+      src="https://raw.githubusercontent.com/deathart/deathart/devcard/devcard.png"
       alt="Deathart's Dev Card"
     />
   </a>
