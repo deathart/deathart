@@ -14,10 +14,9 @@ I am a full-stack developer but I prefer the front end, my favorite language and
     />
   </a>
 
-![](https://github-readme-stats-eight-theta.vercel.app/api?username=deathart&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&theme=vue-dark)
+![Stats](./profile/stats.svg)
 
-
-<p><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deathart&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&hide=lua&langs_count=8&theme=vue-dark" /></p>
+<p><img align="center" src="./profile/top-langs.svg" /></p>
 
 
 #### ⚡ Languages and Tools:
